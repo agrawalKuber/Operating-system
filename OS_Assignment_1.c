@@ -18,3 +18,11 @@ int main()
     }
     return 0;
 }
+
+/*
+The output of the following Program will be
+I am Child
+Child PID = 9172 , Child PPID = 9171
+I am Parent
+Parent Pid = 9171
+*/
